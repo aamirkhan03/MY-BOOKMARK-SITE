@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('book.png');
+    background-image: url('book.jpg');
     background-size: cover; /* makes image cover the whole page */
     background-position: center; /* centers the image */
     background-repeat: no-repeat; /* prevents repeating */
@@ -24,3 +24,4 @@ a:active {
     color: green; /* color when clicked */
 
 }
+
