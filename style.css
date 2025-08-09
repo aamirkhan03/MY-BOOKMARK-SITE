@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('BOOKMARK.png');
+    background-image: url('book.png');
     background-size: cover; /* makes image cover the whole page */
     background-position: center; /* centers the image */
     background-repeat: no-repeat; /* prevents repeating */
@@ -22,4 +22,5 @@ a:hover {
 
 a:active {
     color: green; /* color when clicked */
+
 }
